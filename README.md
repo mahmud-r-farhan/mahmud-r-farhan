@@ -20,7 +20,7 @@
   <h2>DocQR Tools</h2>
 
   <p>
-    17 powerful tools in one app! PDF creator, QR scanner, calculator, notes, timer & more.<br>
+    20+ powerful tools in one app! PDF creator, QR scanner, calculator, notes, timer & more.<br>
     <b>Beautiful design • Dark mode • 100% Free</b>
   </p>
 
