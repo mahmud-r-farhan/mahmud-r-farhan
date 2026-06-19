@@ -1,26 +1,28 @@
+<div align="center">
+  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=600&size=22&pause=1000&color=45F73D&center=true&vCenter=true&random=true&width=435&lines=Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
 
+</div>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&width=500&lines=React;Next.js;Flutter;Tailwind+CSS;Framer-Motion;Node.js;Express.js;JWT;Socket.io;MongoDB;PostgreSQL;JavaScript;TypeScript;MERN+Stack;REST+API+Development"
-      alt="Typing SVG"
-    />
-  </a>
-</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmud-r-farhan&label=Profile%20views&color=0e75b6&style=flat" alt="mahmud-r-farhan" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mahmud-r-farhan&label=Profile%20views&color=0e75b6&style=flat" alt="mahmud-r-farhan" /> </p>
 
+<div align="center">
+ 
+[![Mahmud Rahman profile views](https://u8views.com/api/v1/github/profiles/114731414/views/day-week-month-total-count.svg)](https://u8views.com/github/mahmud-r-farhan)
+
+
+</div>
+<br>
+<hr>
 <div align="center">
   <a href="https://play.google.com/store/apps/details?id=com.bengalbytes.docqr_tools">
     <img src="https://i.postimg.cc/QdLGGgZc/app-icon.png" width="120" alt="DocQR Tools Icon" style="border-radius: 20%;">
   </a>
 
-  <h2>DocQR Tools</h2>
+  <h2>DocQR Tools - PDF, QR & AI</h2>
 
-  <p>
-    20+ powerful tools in one app! PDF creator, QR scanner, calculator, notes, timer & more.<br>
+  <p>Replace 30+ apps with one powerful, beautiful, privacy-first toolkit. DocQR Tools combines professional PDF tools, QR & barcode scanning, productivity features, and developer utilities in a lightning-fast offline app.<br>
     <b>Beautiful design • Dark mode • 100% Free</b>
   </p>
 
