@@ -20,7 +20,7 @@
     <img src="https://i.postimg.cc/QdLGGgZc/app-icon.png" width="120" alt="DocQR Tools Icon" style="border-radius: 20%;">
   </a>
 
-  <h2>DocQR Tools - PDF, QR & AI</h2>
+  <h2>DocQR Tools - PDF & QR Scanner</h2>
 
   <p>Replace 30+ apps with one powerful, beautiful, privacy-first toolkit. DocQR Tools combines professional PDF tools, QR & barcode scanning, productivity features, and developer utilities in a lightning-fast offline app.<br>
     <b>Beautiful design • Dark mode • 100% Free</b>
@@ -35,10 +35,10 @@
 
 ## 📊 GitHub Analytics Dashboard
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahmud-r-farhan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmud-r-farhan&layout=compact&langs_count=10&theme=tokyonight"/>
-</div>
+
+  ![Top Languages](https://ghstats.dev/api/langs?username=mahmud-r-farhan&max_langs=12&layout=grid)
+  ![GitHub Stats Card](https://ghstats.dev/api/card?username=mahmud-r-farhan&border_radius=10.5&size=compact)
+
 
 ### 🏆 GitHub Achievements
 <p align="center">
