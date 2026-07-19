@@ -2,12 +2,15 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=600&size=22&pause=1000&color=45F73D&center=true&vCenter=true&random=true&width=435&lines=Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
 
-</div>
+
+
+<img  src="https://ghstats.dev/api/mini?username=mahmud-r-farhan&metric=contributions&style=for-the-badge" alt="GitHub Mini Badge" />
+
+<br>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mahmud-r-farhan&label=Profile%20views&color=0e75b6&style=flat" alt="mahmud-r-farhan" /> </p>
 
-<div align="center">
  
 [![Mahmud Rahman profile views](https://u8views.com/api/v1/github/profiles/114731414/views/day-week-month-total-count.svg)](https://u8views.com/github/mahmud-r-farhan)
 
